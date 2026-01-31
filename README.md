@@ -66,34 +66,41 @@ skills = {
 >
 > ---
 >
-> ## 📊 GitHub Stats
+> ## 📊 Stats
+>
+> ```
+> ┌──────────────────────────────────────────────────────────┐
+> │                                                          │
+> │   📈 Total Contributions: 1,044                          │
+> │   🔥 Current Streak: 6 days (Jan 25 - Jan 30)            │
+> │   🏆 Longest Streak: 20 days (Jan 2 - Jan 21)            │
+> │                                                          │
+> │   💻 Top Languages:                                      │
+> │      • Go          ████████████████░░  89.2%             │
+> │      • JavaScript  ██░░░░░░░░░░░░░░░░   5.2%             │
+> │      • HTML        █░░░░░░░░░░░░░░░░░   2.9%             │
+> │      • CSS         █░░░░░░░░░░░░░░░░░   1.7%             │
+> │      • Other       █░░░░░░░░░░░░░░░░░   1.0%             │
+> │                                                          │
+> └──────────────────────────────────────────────────────────┘
+> ```
+>
+> ---
+>
+> ## 🎯 Currently Working On
+>
+> ```
+> ┌─────────────────────────────────────────────────────┐
+> │  🔨 Building terminal tools that don't suck         │
+> │  🎨 Expanding moji with more features               │
+> │  🌐 Playing with WebAssembly                        │
+> │  📚 Writing docs (sometimes)                        │
+> └─────────────────────────────────────────────────────┘
+> ```
+>
+> ---
 >
 > <div align="center">
-
-  ![ddmoney420's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmoney420&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmoney420&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ddmoney420&theme=tokyonight&hide_border=true)
-
-  </div>
-
-  ---
-
-  ## 🎯 Currently Working On
-
-  ```
-┌─────────────────────────────────────────────────────┐
-│  🔨 Building terminal tools that don't suck         │
-│  🎨 Expanding moji with more features               │
-│  🌐 Playing with WebAssembly                        │
-│  📚 Writing docs (sometimes)                        │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
 
 ### ⭐ Star my repos if you dig what I'm building ⭐
 
