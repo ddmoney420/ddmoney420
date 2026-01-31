@@ -32,7 +32,7 @@ Yo! I'm ddmoney420 — I like making cool shit with code. Terminal tools, CLI ap
 
 ## 🛠️ Tech Stack
 
-```python
+```
 skills = {
     "languages": ["Go", "Python", "JavaScript", "Ruby", "Shell"],
     "tools": ["Git", "Docker", "WebAssembly", "GitHub Actions"],
