@@ -9,12 +9,12 @@
 
 <div align="center">
 
-### 🚀 Builder | Coder | Terminal Artist 🎨
+### 🚀 Builder | Coder | Making Cool Shit 🎯
 
 [![GitHub followers](https://img.shields.io/github/followers/ddmoney420?style=flat-square&logo=github)](https://github.com/ddmoney420)
 [![Profile Views](https://komarev.com/ghpvc/?username=ddmoney420&style=flat-square&color=blueviolet)](https://github.com/ddmoney420)
 
-**⚡ Making beautiful things in the terminal ⚡**
+**⚡ Just fucking around and building things ⚡**
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 🎭 About Me
 
-Hey there! I'm ddmoney420 — a developer who loves building tools that make the command line beautiful and fun. When I'm not coding, I'm probably crafting ASCII art or exploring new ways to jazz up terminal output.
+Yo! I'm ddmoney420 — I like making cool shit with code. Terminal tools, CLI apps, ASCII art... if it runs in a terminal and looks dope, I'm probably into it. Currently having fun building stuff in Go and playing with terminal graphics.
 
 ```
    (づ｡◕‿‿◕｡)づ  Welcome to my GitHub!
@@ -36,8 +36,8 @@ Hey there! I'm ddmoney420 — a developer who loves building tools that make the
 skills = {
     "languages": ["Go", "Python", "JavaScript", "Ruby", "Shell"],
     "tools": ["Git", "Docker", "WebAssembly", "GitHub Actions"],
-    "interests": ["Terminal UIs", "ASCII Art", "Developer Tools", "CLI Apps"],
-    "current_focus": "Building terminal art toolkits & interactive CLIs"
+    "interests": ["Terminal UIs", "ASCII Art", "CLI Apps", "Dev Tools"],
+    "vibe": "Building cool shit and learning as I go"
 }
 ```
 
@@ -46,7 +46,7 @@ skills = {
 ## 🎨 Featured Projects
 
 ### [🎭 moji](https://github.com/ddmoney420/moji)
-> **Terminal Art Toolkit** - The ultimate CLI for kaomoji, ASCII banners, QR codes, and more!
+> **Terminal Art Toolkit** - CLI tool for kaomoji, ASCII banners, QR codes, and more
 >
 > - 🎨 170+ kaomoji & 47 FIGlet fonts
 > - - 🌈 23 color filters & 12 gradient themes
@@ -69,99 +69,99 @@ skills = {
 > ### 📦 Other Projects
 >
 > <table>
-    <tr>
-        <td align="center">
-              <a href="https://github.com/ddmoney420/ddmoney420">
-                      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddmoney420&repo=ddmoney420&theme=tokyonight&hide_border=true" />
-                            </a>
-                                </td>
-                                    <td align="center">
-                                          <a href="https://github.com/ddmoney420/moji">
-                                                  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddmoney420&repo=moji&theme=tokyonight&hide_border=true" />
-                                                        </a>
-                                                            </td>
-                                                              </tr>
-                                                              </table>
-
-                                                              ---
-
-                                                              ## 📊 GitHub Stats
-
-                                                              <div align="center">
-
-                                                                ![ddmoney420's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmoney420&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-                                                                ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmoney420&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-                                                                ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ddmoney420&theme=tokyonight&hide_border=true)
-
-                                                                </div>
+      <tr>
+          <td align="center">
+                <a href="https://github.com/ddmoney420/ddmoney420">
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddmoney420&repo=ddmoney420&theme=tokyonight&hide_border=true" />
+                              </a>
+                                  </td>
+                                      <td align="center">
+                                            <a href="https://github.com/ddmoney420/moji">
+                                                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddmoney420&repo=moji&theme=tokyonight&hide_border=true" />
+                                                          </a>
+                                                              </td>
+                                                                </tr>
+                                                                </table>
 
                                                                 ---
 
-                                                                ## 🎯 Currently Working On
-
-                                                                ```
-                                                                ┌─────────────────────────────────────────────────────┐
-                                                                │  🔨 Building next-gen terminal tools                │
-                                                                │  🎨 Expanding moji with more ASCII art features     │
-                                                                │  🌐 Exploring WebAssembly for browser-based CLIs    │
-                                                                │  📚 Writing docs and tutorials                      │
-                                                                └─────────────────────────────────────────────────────┘
-                                                                ```
-
-                                                                ---
-
-                                                                ## 💬 Connect With Me
+                                                                ## 📊 GitHub Stats
 
                                                                 <div align="center">
 
-                                                                ```
-                                                                    ╔═══════════════════════════════════════╗
-                                                                        ║                                       ║
-                                                                            ║   Scan to visit my moji playground!   ║
-                                                                                ║                                       ║
-                                                                                    ║   ██████████████    ██  ██████████   ║
-                                                                                        ║   ██          ██  ██    ██      ██   ║
-                                                                                            ║   ██  ██████  ██  ██████████  ████   ║
-                                                                                                ║   ██  ██████  ██    ██    ████████   ║
-                                                                                                    ║   ██  ██████  ██  ████  ██      ██   ║
-                                                                                                        ║   ██          ██  ██████████  ████   ║
-                                                                                                            ║   ██████████████  ██  ██  ██  ██ ██  ║
-                                                                                                                ║                   ████████    ██  ██  ║
-                                                                                                                    ║   ████  ██████  ████    ████████████  ║
-                                                                                                                        ║   ██████  ██  ██████████    ██    ██  ║
-                                                                                                                            ║     ████  ████████████  ██████  ████  ║
-                                                                                                                                ║   ██  ██  ████████  ████  ████  ████  ║
-                                                                                                                                    ║                   ██████  ██████  ██  ║
-                                                                                                                                        ║   ██████████████  ████  ██  ██  ████  ║
-                                                                                                                                            ║   ██          ██    ████████████████  ║
-                                                                                                                                                ║   ██  ██████  ██  ██    ██████    ██  ║
-                                                                                                                                                    ║   ██  ██████  ██  ██  ██████████████  ║
-                                                                                                                                                        ║   ██  ██████  ██    ██  ████  ██████  ║
-                                                                                                                                                            ║   ██          ██  ██████    ████  ██  ║
-                                                                                                                                                                ║   ██████████████  ████  ██  ██  ████  ║
-                                                                                                                                                                    ║                                       ║
-                                                                                                                                                                        ╚═══════════════════════════════════════╝
-                                                                                                                                                                            
-                                                                                                                                                                                https://ddmoney420.github.io/moji
-                                                                                                                                                                                ```
-                                                                                                                                                                                
-                                                                                                                                                                                [![GitHub](https://img.shields.io/badge/GitHub-ddmoney420-181717?style=for-the-badge&logo=github)](https://github.com/ddmoney420)
-                                                                                                                                                                                
-                                                                                                                                                                                </div>
-                                                                                                                                                                                
-                                                                                                                                                                                ---
-                                                                                                                                                                                
-                                                                                                                                                                                <div align="center">
-                                                                                                                                                                                
-                                                                                                                                                                                ### ⭐ Star my repos if you like what you see! ⭐
-                                                                                                                                                                                
-                                                                                                                                                                                ```
-                                                                                                                                                                                    (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  Thanks for stopping by!  ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
-                                                                                                                                                                                    ```
-                                                                                                                                                                                    
-                                                                                                                                                                                    ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-                                                                                                                                                                                    
-                                                                                                                                                                                    </div>
+                                                                  ![ddmoney420's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddmoney420&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+                                                                  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmoney420&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+                                                                  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ddmoney420&theme=tokyonight&hide_border=true)
+
+                                                                  </div>
+
+                                                                  ---
+
+                                                                  ## 🎯 Currently Working On
+
+                                                                  ```
+                                                                  ┌─────────────────────────────────────────────────────┐
+                                                                  │  🔨 Building terminal tools that don't suck         │
+                                                                  │  🎨 Expanding moji with more features               │
+                                                                  │  🌐 Playing with WebAssembly                        │
+                                                                  │  📚 Writing docs (sometimes)                        │
+                                                                  └─────────────────────────────────────────────────────┘
+                                                                  ```
+
+                                                                  ---
+
+                                                                  ## 💬 Connect
+
+                                                                  <div align="center">
+
+                                                                  ```
+                                                                      ╔═══════════════════════════════════════╗
+                                                                          ║                                       ║
+                                                                              ║   Scan to check out moji playground   ║
+                                                                                  ║                                       ║
+                                                                                      ║   ██████████████    ██  ██████████   ║
+                                                                                          ║   ██          ██  ██    ██      ██   ║
+                                                                                              ║   ██  ██████  ██  ██████████  ████   ║
+                                                                                                  ║   ██  ██████  ██    ██    ████████   ║
+                                                                                                      ║   ██  ██████  ██  ████  ██      ██   ║
+                                                                                                          ║   ██          ██  ██████████  ████   ║
+                                                                                                              ║   ██████████████  ██  ██  ██  ██ ██  ║
+                                                                                                                  ║                   ████████    ██  ██  ║
+                                                                                                                      ║   ████  ██████  ████    ████████████  ║
+                                                                                                                          ║   ██████  ██  ██████████    ██    ██  ║
+                                                                                                                              ║     ████  ████████████  ██████  ████  ║
+                                                                                                                                  ║   ██  ██  ████████  ████  ████  ████  ║
+                                                                                                                                      ║                   ██████  ██████  ██  ║
+                                                                                                                                          ║   ██████████████  ████  ██  ██  ████  ║
+                                                                                                                                              ║   ██          ██    ████████████████  ║
+                                                                                                                                                  ║   ██  ██████  ██  ██    ██████    ██  ║
+                                                                                                                                                      ║   ██  ██████  ██  ██  ██████████████  ║
+                                                                                                                                                          ║   ██  ██████  ██    ██  ████  ██████  ║
+                                                                                                                                                              ║   ██          ██  ██████    ████  ██  ║
+                                                                                                                                                                  ║   ██████████████  ████  ██  ██  ████  ║
+                                                                                                                                                                      ║                                       ║
+                                                                                                                                                                          ╚═══════════════════════════════════════╝
+                                                                                                                                                                              
+                                                                                                                                                                                  https://ddmoney420.github.io/moji
+                                                                                                                                                                                  ```
+                                                                                                                                                                                  
+                                                                                                                                                                                  [![GitHub](https://img.shields.io/badge/GitHub-ddmoney420-181717?style=for-the-badge&logo=github)](https://github.com/ddmoney420)
+                                                                                                                                                                                  
+                                                                                                                                                                                  </div>
+                                                                                                                                                                                  
+                                                                                                                                                                                  ---
+                                                                                                                                                                                  
+                                                                                                                                                                                  <div align="center">
+                                                                                                                                                                                  
+                                                                                                                                                                                  ### ⭐ Star my repos if you dig what I'm building ⭐
+                                                                                                                                                                                  
+                                                                                                                                                                                  ```
+                                                                                                                                                                                      (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  Thanks for stopping by!  ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
+                                                                                                                                                                                      ```
+                                                                                                                                                                                      
+                                                                                                                                                                                      ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+                                                                                                                                                                                      
+                                                                                                                                                                                      </div>
 </table>
