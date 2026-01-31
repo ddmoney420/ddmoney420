@@ -53,7 +53,6 @@ skills = {
 >   - - 📱 QR code generator
 >     - - 🖼️ Image to ASCII converter
 >       - - 🎮 Interactive TUI with live preview
->         - - 🌐 [Try it in your browser](https://ddmoney420.github.io/moji)
 >          
 >           - ```
 >                 __  __  ___     _ ___
