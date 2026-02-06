@@ -9,20 +9,20 @@
 
 <div align="center">
 
-### 🚀 Builder | Coder | Making Cool Shit 🎯
+### Builder | Coder | Making Cool Shit
 
 [![GitHub followers](https://img.shields.io/github/followers/ddmoney420?style=flat-square&logo=github)](https://github.com/ddmoney420)
 [![Profile Views](https://komarev.com/ghpvc/?username=ddmoney420&style=flat-square&color=blueviolet)](https://github.com/ddmoney420)
 
-**⚡ Just fucking around and building things ⚡**
+**Just fucking around and building things**
 
 </div>
 
 ---
 
-## 🎭 About Me
+## About Me
 
-Yo! I'm ddmoney420 — I like making cool shit with code. Terminal tools, CLI apps, ASCII art... if it runs in a terminal and looks dope, I'm probably into it. Currently having fun building stuff in Go and playing with terminal graphics.
+Yo! I'm ddmoney420 — I like making cool shit with code. Terminal tools, CLI apps, ASCII art, media systems... if it runs in a terminal and looks dope, I'm probably into it. Currently building stuff in Go, Rust, and Zig and messing with terminal graphics.
 
 ```
    (づ｡◕‿‿◕｡)づ  Welcome to my GitHub!
@@ -30,69 +30,75 @@ Yo! I'm ddmoney420 — I like making cool shit with code. Terminal tools, CLI ap
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```
 skills = {
-    "languages": ["Go", "Python", "JavaScript", "Ruby", "Shell"],
-    "tools": ["Git", "Docker", "WebAssembly", "GitHub Actions"],
-    "interests": ["Terminal UIs", "ASCII Art", "CLI Apps", "Dev Tools"],
+    "languages": ["Go", "Rust", "Zig", "TypeScript", "Python", "Ruby", "Shell"],
+    "tools": ["Git", "Docker", "WebAssembly", "GitHub Actions", "MCP"],
+    "interests": ["Terminal UIs", "ASCII Art", "CLI Apps", "Dev Tools", "Media Systems"],
     "vibe": "Building cool shit and learning as I go"
 }
 ```
 
 ---
 
-## 🎨 Featured Projects
+## Featured Projects
 
-### [🎭 moji](https://github.com/ddmoney420/moji)
-> **Terminal Art Toolkit** - CLI tool for kaomoji, ASCII banners, QR codes, and more
->
-> - 🎨 170+ kaomoji & 47 FIGlet fonts
-> - - 🌈 23 color filters & 12 gradient themes
->   - - 📱 QR code generator
->     - - 🖼️ Image to ASCII converter
-    - 📱 Interactive TUI with live preview>
+### [moji](https://github.com/ddmoney420/moji)
+> **Terminal Art Toolkit** — CLI tool for kaomoji, ASCII banners, QR codes, and more
 
-  ```
-    __ __ ___ _ ___
-    | \/ |/ _ \ | |_ _|
-    | |\/| | (_) | | || |
-    |_| |_|\___/\__|_|___|
-  ```
-> │                                                          │
-> │   📈 Total Contributions: 1,044                          │
-> │   🔥 Current Streak: 6 days (Jan 25 - Jan 30)            │
-> │   🏆 Longest Streak: 20 days (Jan 2 - Jan 21)            │
-> │                                                          │
-> │   💻 Top Languages:                                      │
-> │      • Go          ████████████████░░  89.2%             │
-> │      • JavaScript  ██░░░░░░░░░░░░░░░░   5.2%             │
-> │      • HTML        █░░░░░░░░░░░░░░░░░   2.9%             │
-> │      • CSS         █░░░░░░░░░░░░░░░░░   1.7%             │
-> │      • Other       █░░░░░░░░░░░░░░░░░   1.0%             │
-> │                                                          │
-> └──────────────────────────────────────────────────────────┘
-> ```
->
-> ---
->
-> ## 🎯 Currently Working On
->
-> ```
-> ┌─────────────────────────────────────────────────────┐
-> │  🔨 Building terminal tools that don't suck         │
-> │  🎨 Expanding moji with more features               │
-> │  🌐 Playing with WebAssembly                        │
-> │  📚 Writing docs (sometimes)                        │
-> └─────────────────────────────────────────────────────┘
-> ```
->
-> ---
->
-> <div align="center">
+- 170+ kaomoji & 47 FIGlet fonts
+- 23 color filters & 12 gradient themes
+- QR code generator & image-to-ASCII converter
+- Interactive TUI with live preview
 
-### ⭐ Star my repos if you dig what I'm building ⭐
+### [plundarr](https://github.com/ddmoney420/plundarr)
+> **Media Management System** — Modular media acquisition, import, organization & streaming
+
+- Job-based architecture built in Go
+- Unified media management pipeline
+- Acquire, import, organize, stream
+
+### [bug-hunter-mcp](https://github.com/ddmoney420/bug-hunter-mcp)
+> **Open Source Issue Hunter** — MCP server for finding and solving open source issues
+
+- Powered by Chant and Moji
+- TypeScript MCP server
+- Hunt issues, propose fixes, ship contributions
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ddmoney420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ddmoney420&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmoney420&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+</div>
+
+---
+
+## Currently Working On
+
+```
+┌─────────────────────────────────────────────────────┐
+│  🔨 Building terminal tools that don't suck         │
+│  🏴‍☠️ Plundarr media management system               │
+│  🐛 Bug Hunter MCP for open source contributions    │
+│  🦀 Learning Rust & Zig                             │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+### Star my repos if you dig what I'm building
 
 ```
     (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  Thanks for stopping by!  ✧ﾟ･: *ヽ(◕ヮ◕ヽ)
