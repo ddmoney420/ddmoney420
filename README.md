@@ -61,11 +61,12 @@ skills = {
 - Acquire, import, organize, stream
 
 ### [bug-hunter-mcp](https://github.com/ddmoney420/bug-hunter-mcp)
-> **Open Source Issue Hunter** — MCP server for finding and solving open source issues
+> **Learn to Fix Open Source Bugs** — MCP server that teaches you by doing
 
-- Powered by Chant and Moji
-- TypeScript MCP server
-- Hunt issues, propose fixes, ship contributions
+- 20 tools across Hunt, Learn, and Grow phases
+- Concept graph with 26 CS topics & prerequisite tracking
+- Quizzes, achievements, streaks — all stored locally
+- Auto-generates Dockerfiles, starter code, and Chant specs
 
 ---
 
